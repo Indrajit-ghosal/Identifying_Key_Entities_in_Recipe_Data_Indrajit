@@ -16,7 +16,7 @@ The given data is in JSON format, representing a **structured recipe ingredient 
       "pos": "quantity unit ingredient ingredient quantity ingredient unit ingredient ingredient ingredient ingredient quantity unit ingredient ingredient quantity ingredient ingredient ingredient ingredient ingredient ingredient ingredient ingredient ingredient ingredient quantity ingredient ingredient ingredient quantity unit ingredient ingredient"
     }
 ]
-| **Key**  | **Description**  |
-|----------|-----------------|
-| 'input'  | Contains a raw ingredient list from a recipe. |
-| 'pos'    | Represents the corresponding part-of-speech (POS) tags or NER labels, identifying quantities, ingredients, and units. |
+| **Key** | **Description** |
+|---|---|
+| 'input' | Contains a raw ingredient list from a recipe. |
+| 'pos' | Represents the corresponding part-of-speech (POS) tags or NER labels, identifying quantities, ingredients, and units. |
