@@ -17,9 +17,3 @@ The given data is in JSON format, representing a **structured recipe ingredient 
     }
 ]
 
-Here is the data description:
-
-| **Key** | **Description** |
-|---|---|
-| 'input' | Contains a raw ingredient list from a recipe. |
-| 'pos' | Represents the corresponding part-of-speech (POS) tags or NER labels... |
